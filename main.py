@@ -100,6 +100,3 @@ def scan(expression):
 
     if numbers != '':
         print(f'Integers: {numbers}')
-
-
-scan('1+3*7')
